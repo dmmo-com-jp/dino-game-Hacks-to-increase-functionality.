@@ -2,7 +2,7 @@
 The CONSOLE command adds new functionality to the DINO game.
 
 ## 使用方法
-hack.jsの中身を、開発者ツールのconsoleに張り付けてエンターを押すだけで動作を開始します。
+hack_v1.2.jsの中身を、開発者ツールのconsoleに張り付けてエンターを押すだけで動作を開始します。
 
 ### 機能の紹介
 このチートでは次の機能が追加されます。
